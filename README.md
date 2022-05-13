@@ -5,5 +5,5 @@ File details:
 <ol>
   <li> Text file: containing the SQL code to load the data workbench. It can be copy pasted in MYSQL. </li>
   <li> SQL file: containing the analysis </li>
-  <li> Text file: containing the summary of the analysis</li>
+  <li> PDF file: containing the summary of the analysis</li>
   </ol>
